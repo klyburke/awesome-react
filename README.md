@@ -1171,6 +1171,7 @@ A collection of awesome things regarding React ecosystem.
 * [stride-nyc/remote_retro](https://github.com/stride-nyc/remote_retro)
 * [Sqlectron - SQL client](https://sqlectron.github.io/)
 * [ALM - A cloud ready IDE for React + TypeScript](https://alm-tools.github.io)
+* [SaaS Boilerplate - Open source web app to quickly build your own SaaS product](https://github.com/async-labs/saas)
 
 ---
 ### Contribution
